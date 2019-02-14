@@ -9,4 +9,7 @@ output: ioslides_presentation
 
 ## How to install
 
+http://lmgtfy.com/?q=How+to+install+git
+
+
 ## the end
