@@ -12,4 +12,6 @@ output: ioslides_presentation
 http://lmgtfy.com/?q=How+to+install+git
 
 
-## the end
+# the end
+
+Sharon & Vincent
