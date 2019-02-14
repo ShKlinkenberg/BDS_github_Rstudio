@@ -1,0 +1,12 @@
+---
+title: "How to use github and Rstudio"
+author: "Klinkenberg"
+date: "2/14/2019"
+output: ioslides_presentation
+---
+
+## History
+
+## How to install
+
+## the end
