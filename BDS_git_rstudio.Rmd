@@ -8,7 +8,8 @@ output: ioslides_presentation
 ## History
 
 Bla
-
+Bla
+Bla
 ## How to install
 
 http://lmgtfy.com/?q=How+to+install+git
