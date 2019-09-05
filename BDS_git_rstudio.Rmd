@@ -13,6 +13,9 @@ Bla an additional bla
 
 http://lmgtfy.com/?q=How+to+install+git
 
+## How github works
+
+https://guides.github.com/activities/hello-world/
 
 # the end
 
